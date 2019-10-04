@@ -150,4 +150,4 @@ def on_key(tap, e):
 if ENABLED:
     tap.register(tap.KEY | tap.HOOK, on_key)
 
-    mouse = LensMouse()
+    #mouse = LensMouse()
